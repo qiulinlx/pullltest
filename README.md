@@ -1,5 +1,4 @@
-
-Congratulations!!!
+## Congratulations!!!
 
 If you are reading this message in RStudio then everything is working!!!
 
