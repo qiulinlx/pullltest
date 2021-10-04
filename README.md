@@ -11,3 +11,6 @@ Hey this is Coşkun. I also had some issues with authentification, but now I thi
 Hi! This is Lerusha. Everything worked perfectly - using conda to install GitHub CLI seems to have worked :) 
 
 Hey this is Craig
+
+Hello, this is Jordan.  All sorted after some help from my class mates. 
+
