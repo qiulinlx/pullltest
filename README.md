@@ -9,3 +9,5 @@ Hi! This is Stephan. Some minor issues with git pushing under the wrong email ad
 Hey this is Coşkun. I also had some issues with authentification, but now I think I figured it out.
 
 Hi! This is Lerusha. Everything worked perfectly - using conda to install GitHub CLI seems to have worked :) 
+
+Hi this is Jordan! All sorted after some help from my class mates. 
