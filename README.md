@@ -6,4 +6,4 @@ Feel free to add your (polite) message of joy and relief below:
 
 Hi! This is Stephan. Some minor issues with git pushing under the wrong email address solved, I should now be good to go.
 
-Hey this is Coşkun. No problems were had by me and I am ready to go!
+Hey this is Coşkun. I also had some issues with authentification, but now I think I figured it out.
