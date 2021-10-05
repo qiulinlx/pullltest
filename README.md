@@ -31,7 +31,7 @@ Kimberlyn; Owner: https://github.com/...; Contributor: https://github.com/ (Jord
 
 Lerusha; Owner: https://github.com/lerusha47/NDVI_Prac; Contributor: https://github.com/KimGreenwood/Pair-Coding-Prac-Kim (Kimberlyn Owner)
 
-Mikaela; Owner: https://github.com/...; Contributor: https://github.com/ (Lerusha Owner)
+Mikaela; Owner: https://github.com/MikaelaTuck/Mikaela-Prac; Contributor: https://github.com/MikaelaTuck/NDVI_Prac/ (Lerusha Owner)
 
 Sabrina; Owner: https://github.com/robsab13/Sabrina_Practical; Contributor: https://github.com/MikaelaTuck/Mikaela-Prac (Mikaela Owner)
 
