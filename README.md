@@ -19,7 +19,7 @@ Feel free to add your (polite) message of joy and relief below:
 
 ### Prac Pairings
 
-Aimee; Owner: https://github.com/...; Contributor: https://github.com/ (Zack Owner)
+Aimee; Owner: https://github.com/AimeeCloete/AimeeGITprac; Contributor: https://github.com/Zack-Pryde/ZPRepository (Zack Owner)
 
 Coşkun; Owner: https://github.com/onurubu/Coskun_Prac_Repo; Contributor: https://github.com/AimeeCloete/AimeeGITprac (Aimee Owner)
 
