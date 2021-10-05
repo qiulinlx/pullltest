@@ -33,7 +33,7 @@ Lerusha; Owner: https://github.com/...; Contributor: https://github.com/ (Kimber
 
 Mikaela; Owner: https://github.com/...; Contributor: https://github.com/ (Lerusha Owner)
 
-Sabrina; Owner: https://github.com/...; Contributor: https://github.com/ (Mikaela Owner)
+Sabrina; Owner: https://github.com/robsab13/Sabrina_Practical; Contributor: https://github.com/MikaelaTuck/Mikaela-Prac (Mikaela Owner)
 
 Stephan; Owner: https://github.com/StephanUCT/JasperPracStephanOwner; Contributor: https://github.com/robsab13/Sabrina_Practical (Sabrina Owner)
 
