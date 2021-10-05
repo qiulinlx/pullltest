@@ -14,7 +14,7 @@ Feel free to add your (polite) message of joy and relief below:
 - Hi, this is Sabrina! 
 - Hi! This is Mikaela. I fought with my laptop for a while but seem to have come right :)
 - The universe tried to stop me but HERE I AM /polite/ -Kim 
-- Hi, this is Frans.
+- Hi, this is France !
 
 
 ### Prac Pairings
