@@ -29,7 +29,7 @@ Jordan; Owner: https://github.com/...; Contributor: https://github.com/ (Craig O
 
 Kimberlyn; Owner: https://github.com/...; Contributor: https://github.com/ (Jordan Owner)
 
-Lerusha; Owner: https://github.com/...; Contributor: https://github.com/ (Kimberlyn Owner)
+Lerusha; Owner: https://github.com/lerusha47/NDVI_Prac; Contributor: https://github.com/KimGreenwood/Pair-Coding-Prac-Kim (Kimberlyn Owner)
 
 Mikaela; Owner: https://github.com/...; Contributor: https://github.com/ (Lerusha Owner)
 
