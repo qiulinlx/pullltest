@@ -25,7 +25,7 @@ Coşkun; Owner: https://github.com/onurubu/Coskun_Prac_Repo; Contributor: https:
 
 Craig; Owner: https://github.com/ohlcra001/Eco-forcasting-prac; Contributor: https://github.com/onurubu/Coskun_Prac_Repo (Coşkun Owner)
 
-Jordan; Owner: https://github.com/...; Contributor: https://github.com/ (Craig Owner)
+Jordan; Owner: https://github.com/JordanKrige/Repository---Jordan-Owner-; Contributor: https://github.com/JordanKrige/Eco-forcasting-prac (Craig Owner)
 
 Kimberlyn; Owner: https://github.com/...; Contributor: https://github.com/ (Jordan Owner)
 
@@ -39,3 +39,7 @@ Stephan; Owner: https://github.com/StephanUCT/JasperPracStephanOwner; Contributo
 
 Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://github.com/StephanUCT/JasperPracStephanOwner
 
+<<<<<<< HEAD
+Hello.. this is Jordan.  All sorted after some help from my class mates! 
+=======
+>>>>>>> c3a67107768df026f3603a79519735170eb4acfe
