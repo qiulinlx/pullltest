@@ -35,7 +35,7 @@ Mikaela; Owner: https://github.com/...; Contributor: https://github.com/ (Lerush
 
 Sabrina; Owner: https://github.com/...; Contributor: https://github.com/ (Mikaela Owner)
 
-Stephan; Owner: https://github.com/...; Contributor: https://github.com/ (Sabrina Owner)
+Stephan; Owner: https://github.com/StephanUCT/JasperPracStephanOwner; Contributor: https://github.com/robsab13/Sabrina_Practical (Sabrina Owner)
 
 Zack; Owner: https://github.com/...; Contributor: https://github.com/ (Stephan Owner)
 
