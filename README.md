@@ -23,7 +23,7 @@ Aimee; Owner: https://github.com/AimeeCloete/AimeeGITprac; Contributor: https://
 
 Coşkun; Owner: https://github.com/onurubu/Coskun_Prac_Repo; Contributor: https://github.com/AimeeCloete/AimeeGITprac (Aimee Owner)
 
-Craig; Owner: https://github.com/...; Contributor: https://github.com/ (Coşkun Owner)
+Craig; Owner: https://github.com/ohlcra001/Eco-forcasting-prac; Contributor: https://github.com/onurubu/Coskun_Prac_Repo (Coşkun Owner)
 
 Jordan; Owner: https://github.com/...; Contributor: https://github.com/ (Craig Owner)
 
