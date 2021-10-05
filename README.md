@@ -16,4 +16,6 @@ Hello, this is Jordan.  All sorted after some help from my class mates.
 
 Hello, this is Aimee!Also had issues with pushing under wrong email address but hopefully this works :) 
 
+Hi this is Zack!
+
 Hi, this is Sabrina! 
