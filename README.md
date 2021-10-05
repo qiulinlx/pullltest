@@ -37,5 +37,5 @@ Sabrina; Owner: https://github.com/...; Contributor: https://github.com/ (Mikael
 
 Stephan; Owner: https://github.com/...; Contributor: https://github.com/ (Sabrina Owner)
 
-Zack; Owner: https://github.com/...; Contributor: https://github.com/ (Stephan Owner)
+Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://github.com/StephanUCT/JasperPracStephanOwner
 
