@@ -21,7 +21,7 @@ Feel free to add your (polite) message of joy and relief below:
 
 Aimee; Owner: https://github.com/...; Contributor: https://github.com/ (Zack Owner)
 
-Coşkun; Owner: https://github.com/...; Contributor: https://github.com/ (Aimee Owner)
+Coşkun; Owner: https://github.com/onurubu/Coskun_Prac_Repo; Contributor: https://github.com/AimeeCloete/AimeeGITprac (Aimee Owner)
 
 Craig; Owner: https://github.com/...; Contributor: https://github.com/ (Coşkun Owner)
 
