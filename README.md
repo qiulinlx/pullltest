@@ -39,7 +39,3 @@ Stephan; Owner: https://github.com/StephanUCT/JasperPracStephanOwner; Contributo
 
 Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://github.com/StephanUCT/JasperPracStephanOwner
 
-<<<<<<< HEAD
-Hello.. this is Jordan.  All sorted after some help from my class mates! 
-=======
->>>>>>> c3a67107768df026f3603a79519735170eb4acfe
