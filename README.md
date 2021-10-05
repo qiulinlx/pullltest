@@ -27,7 +27,7 @@ Craig; Owner: https://github.com/ohlcra001/Eco-forcasting-prac; Contributor: htt
 
 Jordan; Owner: https://github.com/JordanKrige/Repository---Jordan-Owner-; Contributor: https://github.com/JordanKrige/Eco-forcasting-prac (Craig Owner)
 
-Kimberlyn; Owner: https://github.com/...; Contributor: https://github.com/ (Jordan Owner)
+Kimberlyn; Owner: https://github.com/KimGreenwood/Repository---Jordan-Owner- ; Contributor: https://github.com/KimGreenwood/Repository---Jordan-Owner- (Jordan Owner)
 
 Lerusha; Owner: https://github.com/lerusha47/NDVI_Prac; Contributor: https://github.com/KimGreenwood/Pair-Coding-Prac-Kim (Kimberlyn Owner)
 
