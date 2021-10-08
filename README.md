@@ -14,7 +14,7 @@ Feel free to add your (polite) message of joy and relief below:
 - Hi, this is Sabrina! 
 - Hi! This is Mikaela. I fought with my laptop for a while but seem to have come right :)
 - The universe tried to stop me but HERE I AM /polite/ -Kim 
-- Hi, this is France !
+- Hi, this is France! Encountered an issue with every small step, but finally, I am done. can't say much about joy, but I'm definitely relieved :). 
 
 
 ### Prac Pairings
@@ -38,4 +38,7 @@ Sabrina; Owner: https://github.com/robsab13/Sabrina_Practical; Contributor: http
 Stephan; Owner: https://github.com/StephanUCT/JasperPracStephanOwner; Contributor: https://github.com/robsab13/Sabrina_Practical (Sabrina Owner)
 
 Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://github.com/StephanUCT/JasperPracStephanOwner
+
+France: Owner: https://github.com/FranzChauke/FranzRepository; Contributor: https://github.com/FranzChauke/pracFranz 
+
 
