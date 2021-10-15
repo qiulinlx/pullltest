@@ -17,7 +17,7 @@ Feel free to add your (polite) message of joy and relief below:
 - Hi, this is France! Encountered an issue with every small step, but finally, I am done. can't say much about joy, but I'm definitely relieved :). 
 - Hi, Luc here. 
 
-
+Hello this is Nokuthula and I have finally made it this far 
 ### Prac Pairings
 
 Aimee; Owner: https://github.com/AimeeCloete/AimeeGITprac; Contributor: https://github.com/Zack-Pryde/ZPRepository (Zack Owner)
@@ -43,3 +43,9 @@ Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://gi
 France: Owner: https://github.com/FranzChauke/FranzRepository; Contributor: https://github.com/FranzChauke/pracFranz 
 
 
+<<<<<<< HEAD
+Hello, this is Aimee!Also had issues with pushing under wrong email address but hopefully this works :) 
+
+Hello this is Nokuthula and I have finally made it this far 
+=======
+>>>>>>> 5921125f320fcba08ba5b88ab6800e509882c2a7
