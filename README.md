@@ -15,6 +15,7 @@ Feel free to add your (polite) message of joy and relief below:
 - Hi! This is Mikaela. I fought with my laptop for a while but seem to have come right :)
 - The universe tried to stop me but HERE I AM /polite/ -Kim 
 - Hi, this is France! Encountered an issue with every small step, but finally, I am done. can't say much about joy, but I'm definitely relieved :). 
+- Hi, Luc here. 
 
 
 ### Prac Pairings
