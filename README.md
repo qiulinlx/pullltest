@@ -42,10 +42,3 @@ Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://gi
 
 France: Owner: https://github.com/FranzChauke/FranzRepository; Contributor: https://github.com/FranzChauke/pracFranz 
 
-
-<<<<<<< HEAD
-Hello, this is Aimee!Also had issues with pushing under wrong email address but hopefully this works :) 
-
-Hello this is Nokuthula and I have finally made it this far 
-=======
->>>>>>> 5921125f320fcba08ba5b88ab6800e509882c2a7
