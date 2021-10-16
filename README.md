@@ -42,3 +42,4 @@ Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://gi
 
 France: Owner: https://github.com/FranzChauke/FranzRepository; Contributor: https://github.com/FranzChauke/pracFranz 
 
+Nokuthula; Owner: https://github.com/NokuthulaNkadimeng/ThuliOWNER; Contributor: https://github.com/NokuthulaNkadimeng/LucPracRepos
