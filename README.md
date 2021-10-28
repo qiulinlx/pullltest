@@ -16,9 +16,11 @@ Feel free to add your (polite) message of joy and relief below:
 - Hi! This is Mikaela. I fought with my laptop for a while but seem to have come right :)
 - The universe tried to stop me but HERE I AM /polite/ -Kim 
 - Hi, this is France! Encountered an issue with every small step, but finally, I am done. can't say much about joy, but I'm definitely relieved :). 
+- Hi, Luc here. 
+- Hello this is Nokuthula and I have finally made it this far 
 
 
-
+ 
 ### Prac Pairings
 
 Aimee; Owner: https://github.com/AimeeCloete/AimeeGITprac; Contributor: https://github.com/Zack-Pryde/ZPRepository (Zack Owner)
@@ -43,4 +45,4 @@ Zack; Owner: https://github.com/Zack-Pryde/ZPRepository; Contributor: https://gi
 
 France: Owner: https://github.com/FranzChauke/FranzRepository; Contributor: https://github.com/FranzChauke/pracFranz 
 
-
+Nokuthula; Owner: https://github.com/NokuthulaNkadimeng/ThuliOWNER; Contributor: https://github.com/NokuthulaNkadimeng/LucPracRepos
